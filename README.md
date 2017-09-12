@@ -1,2 +1,0 @@
-# lmosquera.github.io
-website
